@@ -1,0 +1,99 @@
+- name: "Bitconnect"
+  url: "https://investopedia.com/bitconnect"
+  isPonzi: true
+  reason: "Esquema piramidal en criptomonedas"
+  fecha: "2018"
+  references:
+    - title: "Investigación Bitconnect"
+      url: "https://mdf-law.com/bitconnect"
+      type: "legal"
+
+- name: "Scott Rothstein Law Firm"
+  url: "https://mdf-law.com/rothstein-ponzi"
+  isPonzi: true
+  reason: "Fraude mediante reclamaciones legales falsas"
+  fecha: "2010"
+  references:
+    - title: "Investigación Rothstein"
+      url: "https://www.historydefined.net/scott-rothstein"
+      type: "news"
+
+- name: "R. Allen Stanford"
+  url: "https://mdf-law.com/allen-stanford-ponzi"
+  isPonzi: true
+  reason: "Fraude en la emisión de certificados de depósito falsos"
+  fecha: "2012"
+  references:
+    - title: "Caso Allen Stanford"
+      url: "https://mdf-law.com/ponzi-stanford"
+      type: "legal"
+
+- name: "Tom Petters Group"
+  url: "https://mdf-law.com/ponzi-petters"
+  isPonzi: true
+  reason: "Fraude masivo con inversiones ficticias"
+  fecha: "2008"
+  references:
+    - title: "Caso Tom Petters"
+      url: "https://historydefined.net/tom-petters"
+      type: "news"
+
+- name: "MMM Global"
+  url: "https://historydefined.net/mmm-ponzi"
+  isPonzi: true
+  reason: "Esquema piramidal con inversiones falsas"
+  fecha: "2011"
+  references:
+    - title: "Expansión de MMM"
+      url: "https://www.historydefined.net/mmm-ponzi"
+      type: "news"
+
+- name: "The Yilishen Tianxi Group"
+  url: "https://www.historydefined.net/yilishen-ponzi"
+  isPonzi: true
+  reason: "Esquema Ponzi basado en medicina tradicional china"
+  fecha: "2007"
+  references:
+    - title: "Caso Yilishen Tianxi"
+      url: "https://mdf-law.com/yilishen"
+      type: "news"
+
+- name: "Mutual Benefits Corporation"
+  url: "https://www.historydefined.net/mutual-benefits-ponzi"
+  isPonzi: true
+  reason: "Fraude con pólizas de seguro de vida"
+  fecha: "2004"
+  references:
+    - title: "Desmantelamiento de Mutual Benefits"
+      url: "https://www.historydefined.net/mutual-benefits-ponzi"
+      type: "news"
+
+- name: "Gerald Payne Ministries"
+  url: "https://www.historydefined.net/gerald-payne"
+  isPonzi: true
+  reason: "Fraude de afinidad con iglesias"
+  fecha: "1999"
+  references:
+    - title: "Fraude de Gerald Payne"
+      url: "https://mdf-law.com/gerald-payne"
+      type: "news"
+
+- name: "Madoff Investment Securities"
+  url: "https://www.investopedia.com/bernie-madoff-ponzi"
+  isPonzi: true
+  reason: "Fraude financiero masivo con retorno falso de inversiones"
+  fecha: "2008"
+  references:
+    - title: "Bernie Madoff's Ponzi Scheme Explained"
+      url: "https://www.investopedia.com/bernie-madoff-ponzi"
+      type: "news"
+
+- name: "Charles Ponzi Scheme"
+  url: "https://www.onthylaw.com/charles-ponzi"
+  isPonzi: true
+  reason: "Uso fraudulento de cupones postales para atraer inversiones"
+  fecha: "1920"
+  references:
+    - title: "Historia del esquema Ponzi"
+      url: "https://en.wikipedia.org/wiki/List_of_Ponzi_schemes"
+      type: "news"
