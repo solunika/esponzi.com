@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from 'react'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import { Link, ArrowUpDown, AlertTriangle, ExternalLink, Info } from 'lucide-react'
